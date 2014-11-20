@@ -19,7 +19,7 @@ shows differences between versions
 git add .
 adds everything in directory?
 
-Sees the modified status after saving.
+Sees the modified status after saving. No save no change in status? Yes.
 
 git commit -m "<commit message goes here>"
 (skips VIM editor; fast way to save new commit)
