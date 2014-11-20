@@ -1,5 +1,7 @@
 Directory -> Stage -> Repository
 
+hash function - hexadecimal for tracking changes
+
 git commit
 
 git add <file name>
@@ -18,3 +20,6 @@ git add .
 adds everything in directory?
 
 Sees the modified status after saving.
+
+git commit -m "<commit message goes here>"
+(skips VIM editor; fast way to save new commit)
