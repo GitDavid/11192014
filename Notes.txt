@@ -1,0 +1,15 @@
+Directory -> Stage -> Repository
+
+git commit
+
+git add <file name>
+
+Type i in VIM
+
+hit "esc" to get out of insert mode
+then ":x" to save
+(x is shorthand for wq, save and quit)
+we are exiting editor, not git
+
+git diff --staged
+shows differences between versions
