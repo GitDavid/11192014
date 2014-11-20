@@ -23,3 +23,20 @@ Sees the modified status after saving. No save no change in status? Yes.
 
 git commit -m "<commit message goes here>"
 (skips VIM editor; fast way to save new commit)
+
+git log
+lists all previous commits in repository (on the branch)
+press "q" to quit
+
+------------
+Branching
+
+git branch
+(shows all branches)
+
+git branch <name of branch>
+(creates new branch)
+
+git checkout <name of branch>
+(switches to branch)
+

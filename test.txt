@@ -3,7 +3,3 @@ def f(x):
 
 Not real Python code of course!
 
-
-no new notes
-
-where are the new notes?
