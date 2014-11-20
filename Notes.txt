@@ -13,3 +13,8 @@ we are exiting editor, not git
 
 git diff --staged
 shows differences between versions
+
+git add .
+adds everything in directory?
+
+Sees the modified status after saving.
